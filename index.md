@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+# [on github](http://www.github.com/green-mercury)
+
+# [on flickr](http://www.flickr.com/green-mercury/albums)
+
+# [on facebook](http://www.facebook.com/holgraef)
+
+# not on linkedin
+
+# not on twitter
+

@@ -1,6 +1,11 @@
 ---
 layout: default
+title: Welcome
 ---
+
+# #
+
+# #
 
 # [on github](http://www.github.com/green-mercury)
 
@@ -8,7 +13,8 @@ layout: default
 
 # [on facebook](http://www.facebook.com/holgraef)
 
-# not on linkedin
+[//]: # (linkedin, CV, publications to be put here)
 
-# not on twitter
+# #
 
+# #

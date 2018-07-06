@@ -3,6 +3,8 @@ layout: default
 title: Welcome
 ---
 
+# [on researchgate](http://www.researchgate.net/profile/Holger_Graef)
+
 # [on github](http://www.github.com/green-mercury)
 
 # [on flickr](http://www.flickr.com/green-mercury/albums)
